@@ -1,0 +1,34 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+html{
+    font-size: 62.5%;
+    overflow-x: hidden;
+}
+:root{
+    --primary-color:#9DC08B;
+    --secondary-color:#609966;
+    --dark-green-color:#40513B;
+    --light-green-color:#EDF1D6;
+    --grey-text-color:#666;
+    --heading-text:3.2rem;
+    --medium-text:2.4rem;   
+    --body-text:2rem;
+    --small-text:1.6rem;
+}
+li{
+    list-style-type: none;
+}
+a{
+    text-decoration: none;
+}
+p,div{
+    font-size: var(--body-text);
+}
+/* fonts */
+@import url('https://fonts.googleapis.com/css2?family=Pacifico&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Tilt+Neon&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Montserrat&display=swap');
+

@@ -1,0 +1,25 @@
+.header{
+    background:var(--primary-color);
+    width:100vw;
+    min-height:10vh;
+}
+.navbar{
+    display:flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    align-items: center;
+    max-width:120rem;
+    margin: 0 auto;
+    padding: 0.5rem;
+}
+.navbar-brand{
+    font-family: 'Pacifico',cursive;
+    font-size: var(--heading-text);
+    letter-spacing:0.3rem;
+}
+.nav-links{
+    display:flex;
+    gap:3rem;
+    font-size: var(--body-text);
+    font-family: 'Tilt Neon','sans serif';
+}
