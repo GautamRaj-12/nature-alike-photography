@@ -1,20 +1,14 @@
-import "./App.css"
-import Navbar from "./components/Navbar/Navbar";
-import Main from "./components/Main/Main";
-import Gallery from "./components/Gallery/Gallery";
-import About from "./components/About/About";
-import Contact from "./components/Contact/Contact";
-import Footer from "./components/Footer/Footer";
-
+import "./App.css";
+import Home from "./pages/Home";
+import { BrowserRouter as Router, Route, Routes } from "react-router-dom";
 function App() {
   return (
     <>
-      <Navbar/>
-      <Main/> 
-      <Gallery/>
-      <About/>
-      <Contact/>
-      <Footer/>
+      <Router>
+        <Routes>
+          <Route index element={<Home />} />
+        </Routes>
+      </Router>
     </>
   );
 }
