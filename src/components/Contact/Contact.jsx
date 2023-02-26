@@ -6,7 +6,7 @@ import React from "react";
 function About() {
   return (
     <>
-      <h1 className="contact-h1">Contact Me</h1>
+      <h1 className="contact-h1" id="contact">Contact Me</h1>
       <div className="contact">
         <div className="contact-img">
           <img src={contactPic} alt="Ankur Sharma looking at mobile" />

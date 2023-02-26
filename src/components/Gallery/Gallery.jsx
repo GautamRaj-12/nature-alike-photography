@@ -14,7 +14,7 @@ import ten from "../../assets/10.jpg";
 function Gallery() {
   return (
     <>
-      <h1 className="gallery-h1">Gallery</h1>
+      <h1 className="gallery-h1" id="gallery">Gallery</h1>
       <div class="row">
         <div class="column">
           <img src={one} alt="" />

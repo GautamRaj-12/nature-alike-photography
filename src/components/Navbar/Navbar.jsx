@@ -9,9 +9,9 @@ function Navbar() {
           <h1 class="navbar-brand">Nature Alike Photography</h1>
           <ul class="nav-links">
             <li class="nav-link">Home</li>
-            <li class="nav-link">About</li>
-            <li class="nav-link">Gallery</li>
-            <li class="nav-link">Contact</li>
+            <li class="nav-link"><a href="#about">About</a></li>
+            <li class="nav-link"><a href="#gallery">Gallery</a></li>
+            <li class="nav-link"><a href="#contact">Contact</a></li>
           </ul>
         </nav>
       </header>
