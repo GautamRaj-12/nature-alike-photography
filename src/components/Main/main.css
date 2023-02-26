@@ -1,9 +1,9 @@
 .main{
     display: flex;
-    flex-wrap: wrap;
     height:90vh;
     width:90%;
     margin:0 auto;
+    flex-wrap: wrap;
 }
 .main-text{
     width:50%;
@@ -18,7 +18,7 @@
 }
 .main-images{
     width:50%;
-    position: relative;         
+    position: relative;        
 }
 .main-images img{
     width:30rem;
@@ -42,3 +42,4 @@
     top:280px;
     left:150px;
  }
+
