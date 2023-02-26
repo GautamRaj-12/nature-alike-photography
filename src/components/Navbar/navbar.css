@@ -23,3 +23,20 @@
     font-size: var(--body-text);
     font-family: 'Tilt Neon','sans serif';
 }
+@media screen and (max-width:448px){
+    .navbar-brand{
+        font-size:calc(var(--heading-text)*0.75);
+        margin-bottom: 1rem;
+    }
+    .nav-links{
+        font-size: calc(var(--body-text)*0.75);
+    }
+}
+@media screen and (max-width:448px){
+    .navbar-brand{
+        font-size:calc(var(--heading-text)*0.50);
+    }
+    .nav-links{
+        font-size: calc(var(--body-text)*0.60);
+    }
+}
