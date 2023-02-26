@@ -10,12 +10,13 @@
   justify-content: center;
   align-items: center;
   font-size: var(--medium-text);
-  font-family: montserrat, 'sans serif';
-  color: var(--grey-text-color);
+  font-family: 'tilt neon', 'sans serif';
+  color: var(--secondary-color);
   text-align: justify;
   line-height: 2;
   font-weight: 700;
 }
+
 .main-images {
   position: relative;
 }
