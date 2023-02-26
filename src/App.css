@@ -2,10 +2,10 @@
     margin: 0;
     padding: 0;
     box-sizing: border-box;
+    overflow: hidden;
 }
 html{
-    font-size: 62.5%;
-    overflow: hidden;
+    font-size: 62.5%;    
 }
 :root{
     --primary-color:#9DC08B;
