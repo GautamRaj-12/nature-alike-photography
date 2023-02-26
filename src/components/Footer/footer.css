@@ -6,3 +6,13 @@
     font-family: "montserrat";
     letter-spacing: 0.5rem;
 }
+@media screen and (max-width:768px){
+    .footer-h2{
+        font-size: var(--body-text);
+    }
+}
+@media screen and (max-width:500px){
+    .footer-h2{
+        font-size: 1rem;
+    }
+}
