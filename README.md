@@ -10,12 +10,6 @@ This project is currently in development. The frontend part  and api of the proj
 ## Project Screen Shots
 
 
-![Screenshot (520)]()
-![Screenshot (521)]()
-![Screenshot (522)]()
-![Screenshot (519)]()
-
-
 <img src="https://user-images.githubusercontent.com/64408989/222945100-6bb3d75e-f24a-438b-ba4f-209a91fedcf6.png" width="70%" height="300" /> <img src="https://user-images.githubusercontent.com/64408989/222945090-158afd60-c7af-4247-8e24-26655740f808.png" width="70%" height="300" /> <img src="https://user-images.githubusercontent.com/64408989/222943773-02015f52-e6fe-4ae8-af2b-dd5bc726a68b.png" width="70%" height="300" /> <img src="https://user-images.githubusercontent.com/64408989/222945093-5c1adfa3-f53d-46e0-85bc-f9f003e0692d.png" width="70%" height="300" /> <img src="https://user-images.githubusercontent.com/64408989/222945098-684f0681-5e24-43a1-9932-39347ede310f.png" width="70%" height="300" />
 
 
